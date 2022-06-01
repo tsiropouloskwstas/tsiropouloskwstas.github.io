@@ -1,0 +1,22 @@
+#header {
+    text-align: center;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+#movies_section {
+    font-size: 20px;
+}
+
+#books_section {
+    font-size: 20px;
+}
+
+#archery_section {
+    font-size: 20px;
+}
+
+table, tr, td {
+    border: 2px double black;
+    background-color: red;
+}
